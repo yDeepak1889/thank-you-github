@@ -457,3 +457,4 @@ Signed,
 - Luiz Picolo ([@luizpicolo](https://github.com/luizpciolo/)), Web Developer, Brazil
 - Kevin Washington ([@kevinwsbr](https://github.com/kevinwsbr/)), Student & Full Stack Developer, Brazil
 - Brandon Shuliang He ([@BrandonHe](https://github.com/brandonhe)), Software Development Engineer, China
+- Deepak Kumar Yadav ([@yDeepak1889](https://github.com/yDeepak1889)), Undergrad, IIIT Allahabad
